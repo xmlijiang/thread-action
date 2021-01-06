@@ -1,4 +1,4 @@
-package com.jali.demo04.exercise;
+package com.jali.demo004.exercise;
 
 public class B implements Runnable{
 

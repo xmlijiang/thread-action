@@ -1,4 +1,4 @@
-package com.jali.demo04.exercise;
+package com.jali.demo004.exercise;
 
 /**
  * 定义一个线程A，输出1~10之间的整数，定义一个线程B，逆序输出1~10之间的整数，要求线程A和线程B交替输出
